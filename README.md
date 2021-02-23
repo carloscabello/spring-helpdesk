@@ -3,6 +3,8 @@ Spring Helpdesk is a web application built with spring boot and It implements a 
 
 This application is intended only as a portfolio project.
 
+[Spring initializr configuration](https://start.spring.io/#!type=maven-project&language=java&platformVersion=2.4.3.RELEASE&packaging=jar&jvmVersion=11&groupId=net.carloscabello&artifactId=spring-helpdesk&name=spring-helpdesk&description=Demo%20project%20for%20Spring%20Boot&packageName=net.carloscabello.springhelpdesk&dependencies=web,lombok,security,thymeleaf,data-jpa,devtools,h2,mariadb)
+
 ## User roles
 * **Customer**: Users demanding help from a professional to solve their problems or resolve their queries.
 * **Employee**: Users that are part of the organization providing support for customers. They are responsible to fulfill customers' requests.

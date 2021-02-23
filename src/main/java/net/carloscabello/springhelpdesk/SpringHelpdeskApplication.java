@@ -1,4 +1,4 @@
-package dev.carloscabello.springhelpdesk;
+package net.carloscabello.springhelpdesk;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
